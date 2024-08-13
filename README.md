@@ -6,6 +6,7 @@ FEATURES
 - Friendly assistant-like chatbot user interface
 - Product users can interact with the chatbot to take the survey
 - Outputs all taken surveys in a readable format in text files
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INSTRUCTIONS
 1.Enter Open AI Api Key
 2.Use code DEV2024 to access developer mode
