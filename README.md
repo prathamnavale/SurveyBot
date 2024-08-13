@@ -16,4 +16,4 @@ INSTRUCTIONS
   4. Once all the questions are asked the program will output a formatted .txt file with all the questions and answers and contact information (if provided) of the user who took the survey.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 UPCOMING CHANGES
-Currently working on a better user interface for the program as the current program uses the console. 
+  Currently working on a better user interface for the program as the current program uses the console. 
