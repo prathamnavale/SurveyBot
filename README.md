@@ -7,7 +7,7 @@ FEATURES
 - Product users can interact with the chatbot to take the survey
 - Outputs all taken surveys in a readable format in text files
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-INSTRUCTIONS:
+INSTRUCTIONS
   1. Enter Open AI Api Key
   2. Use code DEV2024 to access developer mode
     (Developer Mode: Here the user is able to enter information about the product they desire to create a survey about. This is also where they will be able to view, edit and generate the
