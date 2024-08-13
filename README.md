@@ -15,5 +15,4 @@ INSTRUCTIONS
   3. When the survey is created users will be able to access the survey by running the program, the chatbot will ask the users the questions that were created.
   4. Once all the questions are asked the program will output a formatted .txt file with all the questions and answers and contact information (if provided) of the user who took the survey.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-UPCOMING CHANGES
-  Currently working on a better user interface for the program as the current program uses the console. 
+UPCOMING CHANGES: Currently working on a better user interface for the program as the current program uses the console. 
